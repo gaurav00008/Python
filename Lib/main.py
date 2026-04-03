@@ -41,3 +41,9 @@ i = 0
 while i < 5:
     print(i)
     i += 1
+
+
+    def greet(name):
+    return "Hello " + name
+
+print(greet("Anish"))
