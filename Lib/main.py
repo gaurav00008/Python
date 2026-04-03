@@ -8,9 +8,27 @@
 
 # Variables and Data Types
 
-name = "Anish"
-age = 20
-height = 5.9
-is_student = True
+# name = "Anish"
+# age = 20
+# height = 5.9
+# is_student = True
 
-print(name, age, height, is_student)
+# print(name, age, height, is_student)
+
+
+
+
+
+# EXAMPLE 3
+# name = input("Enter your name: ")
+# print("Hello", name)
+
+
+
+#4. Conditional Statement
+num = 10
+
+if num > 0:
+    print("Positive")
+else:
+    print("Negative or Zero")
