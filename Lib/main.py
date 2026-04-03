@@ -26,9 +26,18 @@
 
 
 #4. Conditional Statement
-num = 10
+# num = 10
 
-if num > 0:
-    print("Positive")
-else:
-    print("Negative or Zero")
+# if num > 0:
+#     print("Positive")
+# else:
+#     print("Negative or Zero")
+
+
+
+# While Loop
+
+i = 0
+while i < 5:
+    print(i)
+    i += 1
